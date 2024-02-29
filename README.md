@@ -1,7 +1,23 @@
 # Responsive Login Forms Using Bootstrap
 
-This repository contains responsive login forms built using Bootstrap framework. Each form includes HTML, CSS, and Bootstrap code for creating login, signup, and password reset forms with a clean and modern design.
+Here is the link to visit the Login Form :- https://krishna-bhuyan.github.io/Login-Form/
 
+This project provides a responsive login form built with Bootstrap, featuring various sign-in options such as email, Google, Facebook, and LinkedIn. The design is clean and modern, suitable for web applications and websites requiring user authentication.Each form includes HTML, CSS, and Bootstrap code for creating login, signup, and password reset forms with a clean and modern design.
+
+### Features:
+
+- *Responsive Design:* The login form is optimized for various screen sizes, ensuring a seamless user experience across devices.
+- *Sign-in Options:* Users can sign in using their email or through popular social media platforms like Google, Facebook, and LinkedIn.
+- *Password Recovery:* A "forget password?" link is provided for users who need to recover or reset their passwords.
+- *Custom Styling:* Custom CSS is applied to enhance the visual appeal and user interaction of the login form.
+
+### Technologies Used:
+
+- *Bootstrap5 :-*  Utilized for layout structure, responsive design, and pre-styled components.
+- *HTML5 :-*  Standard markup language for structuring the web page.
+- *CSS3 :-*  Styling language used to customize the appearance of the login form.
+- *Google Fonts :-*  Poppins font family is imported from Google Fonts to enhance typography.
+- 
 ## Forms Included
 
 ### Login Form
